@@ -20,7 +20,7 @@ O objetivo principal é praticar conceitos fundamentais como structs, modulariza
 
 ## Pré-visualização:
 
-<img width="700" height="470" alt="image" src="https://github.com/user-attachments/assets/eb0e36a3-195c-4490-9853-43c85ac53cc2" />
+<img width="600" height="470" alt="image" src="https://github.com/user-attachments/assets/eb0e36a3-195c-4490-9853-43c85ac53cc2" />
 <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/b2dbbfd7-56f5-4d4f-87d9-2b3e55957265" />
 
 ## Licença:
